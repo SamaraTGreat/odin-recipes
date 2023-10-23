@@ -1,1 +1,2 @@
 # odin-recipes
+this is the second attempt at creating a repository, the first one i created was in the wrong folder. Next time I will remember to clone the repository inside the "repos" folder, not the target folder. this created fatal errors
